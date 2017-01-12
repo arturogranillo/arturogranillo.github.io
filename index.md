@@ -2,7 +2,7 @@
 
 * [Introducción](README.md)
 
-* [Jenkins 2.7.1 LTS](jenkins_271_lts/README)
+* [Jenkins 2.7.1 LTS](jenkins_271_lts/index.md)
 
   * [Instalación](jenkins_271_lts/instalacion/README.md)
   * [Cambiar contraseña de administrador](jenkins_271_lts/cambiar_contrasena_de_administrador/README.md)
