@@ -1,4 +1,4 @@
-# Índice 123
+# Índice
 
 * [Introducción](README.md)
 
